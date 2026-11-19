@@ -1,2 +1,10 @@
-# flight-tracker
-A private, cross-platform flight tracking app inspired by modern real-time aviation dashboards.
+# AeroTrack
+
+A dark aviation tracking web app prototype.
+
+## Run
+
+```bash
+npm install
+npm run dev
+```
